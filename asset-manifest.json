@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.3a7313a0.chunk.js",
-    "main.js.map": "/static/js/main.3a7313a0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.172059cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.172059cf.js.map",
-    "static/js/2.eedf2dff.chunk.js": "/static/js/2.eedf2dff.chunk.js",
-    "static/js/2.eedf2dff.chunk.js.map": "/static/js/2.eedf2dff.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.630575835c11903bfe985f675f571b90.js": "/precache-manifest.630575835c11903bfe985f675f571b90.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.eedf2dff.chunk.js.LICENSE.txt": "/static/js/2.eedf2dff.chunk.js.LICENSE.txt"
+    "main.js": "/decklist-convert/static/js/main.3a7313a0.chunk.js",
+    "main.js.map": "/decklist-convert/static/js/main.3a7313a0.chunk.js.map",
+    "runtime-main.js": "/decklist-convert/static/js/runtime-main.f1031470.js",
+    "runtime-main.js.map": "/decklist-convert/static/js/runtime-main.f1031470.js.map",
+    "static/js/2.eedf2dff.chunk.js": "/decklist-convert/static/js/2.eedf2dff.chunk.js",
+    "static/js/2.eedf2dff.chunk.js.map": "/decklist-convert/static/js/2.eedf2dff.chunk.js.map",
+    "index.html": "/decklist-convert/index.html",
+    "precache-manifest.20b4b4014e38a46414af8016f6692bce.js": "/decklist-convert/precache-manifest.20b4b4014e38a46414af8016f6692bce.js",
+    "service-worker.js": "/decklist-convert/service-worker.js",
+    "static/js/2.eedf2dff.chunk.js.LICENSE.txt": "/decklist-convert/static/js/2.eedf2dff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.172059cf.js",
+    "static/js/runtime-main.f1031470.js",
     "static/js/2.eedf2dff.chunk.js",
     "static/js/main.3a7313a0.chunk.js"
   ]

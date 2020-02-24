@@ -1,0 +1,13 @@
+version: '3'
+services:
+  web:
+    build: .
+    environment:
+      - NODE_ENV=development
+      - HELLO=there
+    command: ash -c 'yarn install && yarn start'
+    ports:
+      - '3000:3000'
+    volumes:
+      - '.:/www/'
+      - '/www/node_modules'
